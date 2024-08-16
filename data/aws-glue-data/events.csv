@@ -1,0 +1,101 @@
+EventID,Sport,EventName,Date,Venue
+1,Gymnastics,Gymnastics - Team,2024-08-10,Roland Garros
+2,Cycling,Cycling - Individual,2024-08-06,Grand Palais
+3,Basketball,Basketball - Relay,2024-08-04,Roland Garros
+4,Football,Football - Individual,2024-07-27,Roland Garros
+5,Athletics,Athletics - Team,2024-08-02,Grand Palais
+6,Swimming,Swimming - Relay,2024-08-04,Stade de France
+7,Swimming,Swimming - Team,2024-08-04,Champs-Élysées
+8,Athletics,Athletics - Relay,2024-08-02,Paris Arena
+9,Gymnastics,Gymnastics - Relay,2024-08-01,Roland Garros
+10,Cycling,Cycling - Individual,2024-08-03,Roland Garros
+11,Athletics,Athletics - Team,2024-07-31,Champs-Élysées
+12,Football,Football - Individual,2024-08-01,Grand Palais
+13,Football,Football - Individual,2024-08-04,Roland Garros
+14,Cycling,Cycling - Individual,2024-08-01,Grand Palais
+15,Volleyball,Volleyball - Team,2024-07-27,Roland Garros
+16,Volleyball,Volleyball - Individual,2024-07-31,Paris Arena
+17,Football,Football - Relay,2024-07-26,Champs-Élysées
+18,Football,Football - Team,2024-08-08,Paris Arena
+19,Tennis,Tennis - Team,2024-07-26,Paris Arena
+20,Football,Football - Relay,2024-08-09,Grand Palais
+21,Tennis,Tennis - Individual,2024-07-30,Champs-Élysées
+22,Athletics,Athletics - Relay,2024-07-27,Paris Arena
+23,Volleyball,Volleyball - Relay,2024-07-29,Champs-Élysées
+24,Cycling,Cycling - Relay,2024-08-08,Grand Palais
+25,Cycling,Cycling - Relay,2024-08-09,Stade de France
+26,Swimming,Swimming - Individual,2024-07-27,Grand Palais
+27,Tennis,Tennis - Relay,2024-07-30,Paris Arena
+28,Tennis,Tennis - Individual,2024-08-11,Stade de France
+29,Cycling,Cycling - Team,2024-08-11,Stade de France
+30,Basketball,Basketball - Relay,2024-07-26,Paris Arena
+31,Tennis,Tennis - Relay,2024-08-01,Champs-Élysées
+32,Swimming,Swimming - Team,2024-08-02,Champs-Élysées
+33,Swimming,Swimming - Relay,2024-08-07,Roland Garros
+34,Tennis,Tennis - Individual,2024-07-27,Grand Palais
+35,Gymnastics,Gymnastics - Team,2024-07-26,Stade de France
+36,Athletics,Athletics - Team,2024-08-08,Champs-Élysées
+37,Gymnastics,Gymnastics - Individual,2024-07-28,Grand Palais
+38,Swimming,Swimming - Team,2024-08-06,Grand Palais
+39,Swimming,Swimming - Individual,2024-07-30,Paris Arena
+40,Gymnastics,Gymnastics - Individual,2024-07-29,Stade de France
+41,Cycling,Cycling - Individual,2024-08-08,Stade de France
+42,Basketball,Basketball - Team,2024-07-29,Stade de France
+43,Cycling,Cycling - Team,2024-07-30,Paris Arena
+44,Gymnastics,Gymnastics - Individual,2024-07-28,Grand Palais
+45,Basketball,Basketball - Relay,2024-08-11,Paris Arena
+46,Basketball,Basketball - Relay,2024-08-06,Roland Garros
+47,Volleyball,Volleyball - Relay,2024-08-02,Champs-Élysées
+48,Athletics,Athletics - Relay,2024-07-30,Champs-Élysées
+49,Athletics,Athletics - Team,2024-07-26,Roland Garros
+50,Volleyball,Volleyball - Relay,2024-08-05,Paris Arena
+51,Gymnastics,Gymnastics - Team,2024-08-02,Grand Palais
+52,Athletics,Athletics - Team,2024-08-10,Roland Garros
+53,Volleyball,Volleyball - Individual,2024-08-11,Roland Garros
+54,Football,Football - Relay,2024-08-06,Roland Garros
+55,Gymnastics,Gymnastics - Team,2024-08-05,Grand Palais
+56,Gymnastics,Gymnastics - Individual,2024-08-06,Paris Arena
+57,Volleyball,Volleyball - Relay,2024-08-01,Grand Palais
+58,Basketball,Basketball - Team,2024-08-11,Champs-Élysées
+59,Swimming,Swimming - Relay,2024-08-04,Grand Palais
+60,Tennis,Tennis - Team,2024-08-08,Grand Palais
+61,Athletics,Athletics - Relay,2024-08-10,Roland Garros
+62,Swimming,Swimming - Relay,2024-08-08,Champs-Élysées
+63,Swimming,Swimming - Individual,2024-08-04,Grand Palais
+64,Gymnastics,Gymnastics - Team,2024-08-01,Paris Arena
+65,Cycling,Cycling - Team,2024-08-01,Stade de France
+66,Basketball,Basketball - Individual,2024-07-30,Champs-Élysées
+67,Cycling,Cycling - Team,2024-08-08,Stade de France
+68,Gymnastics,Gymnastics - Individual,2024-08-04,Paris Arena
+69,Football,Football - Relay,2024-08-06,Stade de France
+70,Swimming,Swimming - Relay,2024-08-03,Paris Arena
+71,Volleyball,Volleyball - Relay,2024-08-04,Paris Arena
+72,Athletics,Athletics - Individual,2024-08-07,Roland Garros
+73,Basketball,Basketball - Relay,2024-08-06,Stade de France
+74,Swimming,Swimming - Relay,2024-08-03,Grand Palais
+75,Swimming,Swimming - Relay,2024-08-05,Roland Garros
+76,Gymnastics,Gymnastics - Relay,2024-08-08,Grand Palais
+77,Gymnastics,Gymnastics - Relay,2024-08-10,Champs-Élysées
+78,Tennis,Tennis - Team,2024-07-31,Grand Palais
+79,Gymnastics,Gymnastics - Individual,2024-08-05,Roland Garros
+80,Gymnastics,Gymnastics - Team,2024-08-07,Stade de France
+81,Cycling,Cycling - Individual,2024-08-11,Champs-Élysées
+82,Cycling,Cycling - Individual,2024-07-31,Paris Arena
+83,Volleyball,Volleyball - Individual,2024-07-28,Champs-Élysées
+84,Football,Football - Individual,2024-08-04,Roland Garros
+85,Cycling,Cycling - Relay,2024-08-08,Stade de France
+86,Cycling,Cycling - Individual,2024-08-09,Paris Arena
+87,Tennis,Tennis - Individual,2024-08-02,Roland Garros
+88,Athletics,Athletics - Team,2024-08-02,Roland Garros
+89,Cycling,Cycling - Relay,2024-07-29,Roland Garros
+90,Gymnastics,Gymnastics - Individual,2024-08-06,Roland Garros
+91,Swimming,Swimming - Individual,2024-08-07,Roland Garros
+92,Swimming,Swimming - Individual,2024-07-31,Grand Palais
+93,Tennis,Tennis - Team,2024-07-28,Grand Palais
+94,Volleyball,Volleyball - Individual,2024-07-27,Champs-Élysées
+95,Athletics,Athletics - Team,2024-08-09,Grand Palais
+96,Gymnastics,Gymnastics - Individual,2024-08-01,Stade de France
+97,Basketball,Basketball - Relay,2024-07-31,Grand Palais
+98,Volleyball,Volleyball - Relay,2024-07-26,Roland Garros
+99,Basketball,Basketball - Team,2024-08-05,Champs-Élysées
+100,Gymnastics,Gymnastics - Relay,2024-08-06,Grand Palais
